@@ -1,0 +1,52 @@
+.genr {
+    margin-top: 100px;
+    width: 50px;
+    height: 33px;
+    margin-left: 200px;
+}
+#c1{
+   
+    width: 50px; 
+    margin-left: -100px;
+
+
+}
+#c2{
+   
+    width: 50px; 
+    margin-left: -100px;
+
+
+}
+#c3{
+   
+    width: 50px; 
+    margin-left: -100px;
+
+
+}
+#cr1{
+   
+    width: 50px; 
+    margin-left: -150px;
+  
+
+
+}
+
+#cr2{
+   
+    width: 50px; 
+    margin-left: -150px;
+
+
+}
+#cr3{
+   
+    width: 50px; 
+    margin-left: -150px;
+
+
+}
+/* let somme = document.getElementById("q4")
+somme.innerHTML = parseFloat(quantity3.innerHTML) */
